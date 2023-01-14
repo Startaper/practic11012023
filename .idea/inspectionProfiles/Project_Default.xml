@@ -12,6 +12,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="laboratory_work.ff.pulsesensor" />
+          <option value="str.*" />
+          <option value="credit_work.Player.Player.username" />
         </list>
       </option>
     </inspection_tool>

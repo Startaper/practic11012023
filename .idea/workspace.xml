@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e99b42-4292-44b9-b41f-86181cdfb36f" name="Changes" comment="Добавление двух игр: змейка и крестики нолики">
-      <change afterPath="$PROJECT_DIR$/laboratory_work/games/tic_tac_toe/tic_tac_toe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory_work/lab_work_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratory_work/lab_work_2.py" afterDir="false" />
+    <list default="true" id="52e99b42-4292-44b9-b41f-86181cdfb36f" name="Changes" comment="Добавление двух лаб. работ: вращение одного круга вокруг другого и солнечная система">
+      <change afterPath="$PROJECT_DIR$/credit_work/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/asteroid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/explosion_slice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/shell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/ship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/ship_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credit_work/image/splash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/snake/apple.png" beforeDir="false" afterPath="$PROJECT_DIR$/laboratory_work/games/snake/apple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/snake/dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/laboratory_work/games/snake/dot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/snake/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/laboratory_work/games/snake/head.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/snake/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/laboratory_work/games/snake/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/tic_tac_toe/tic_tac_toe.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,24 +46,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/My Projects/practic11012023/credit_work/image"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\My Projects\practic11012023\credit_work\image" />
+      <recent name="D:\My Projects\practic11012023\credit_work" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My Projects\practic11012023\credit_work\image" />
+      <recent name="D:\My Projects\practic11012023\credit_work" />
+      <recent name="D:\My Projects\practic11012023\laboratory_work\asteroids" />
       <recent name="D:\My Projects\practic11012023\laboratory_work" />
       <recent name="D:\My Projects\practic11012023" />
-      <recent name="D:\My Projects\practic11012023\games\laboratory_work" />
-      <recent name="D:\My Projects\practic11012023\games\tic_tac_toe" />
-      <recent name="D:\My Projects\practic11012023\games\snake" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ff">
-    <configuration name="ff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Game">
+    <configuration name="Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practic11012023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/credit_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credit_work/Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyWindow (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practic11012023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/credit_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credit_work/MyWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practic11012023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/credit_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\My Projects\practic11012023\credit_work\MyWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab_work_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practic11012023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/laboratory_work/ff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/laboratory_work/lab_work_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_work_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practic11012023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,53 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/laboratory_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/laboratory_work/asteroids" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/laboratory_work/lab_work_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practic11012023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/snake" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/snake/snake.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practic11012023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/tic_tac_toe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/tic_tac_toe/tic_tac_toe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/laboratory_work/asteroids/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,10 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ff" />
-        <item itemvalue="Python.lab_work_1" />
-        <item itemvalue="Python.snake" />
-        <item itemvalue="Python.tic_tac_toe" />
+        <item itemvalue="Python.Game" />
+        <item itemvalue="Python.lab_work_2" />
+        <item itemvalue="Python.MyWindow" />
+        <item itemvalue="Python.MyWindow (1)" />
+        <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673431168279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавление двух лаб. работ: вращение одного круга вокруг другого и солнечная система">
+      <created>1673472769278</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673472769278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +222,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавление двух игр: змейка и крестики нолики" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление двух игр: змейка и крестики нолики" />
+    <MESSAGE value="Добавление двух лаб. работ: вращение одного круга вокруг другого и солнечная система" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление двух лаб. работ: вращение одного круга вокруг другого и солнечная система" />
   </component>
 </project>
